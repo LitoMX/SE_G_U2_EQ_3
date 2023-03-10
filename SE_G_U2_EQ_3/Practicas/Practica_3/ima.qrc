@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="fases">
+    <file>Imagenes/1.png</file>
+    <file>Imagenes/2.png</file>
+    <file>Imagenes/3.png</file>
+    <file>Imagenes/4.png</file>
+    <file>Imagenes/5.png</file>
+    <file>Imagenes/6.png</file>
+    <file>Imagenes/7.png</file>
+  </qresource>
+</RCC>
